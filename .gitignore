@@ -215,3 +215,6 @@ frontend/.env.local
 # Actual env files (keep only .example variants)
 backend/.env
 frontend/.env.local
+
+# dev
+.idea
