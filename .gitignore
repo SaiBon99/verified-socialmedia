@@ -217,4 +217,4 @@ backend/.env
 frontend/.env.local
 
 # dev
-.idea
+*.idea
